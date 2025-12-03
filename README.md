@@ -13,3 +13,9 @@ bun run dev
 ```
 
 Open http://localhost:3000/ with your browser to see the result.
+
+
+## Links
+Links to Bun and Elysia documentation:
+- [Bun](https://bun.com/)
+- [Elysia](https://elysiajs.com/)
